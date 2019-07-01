@@ -1,12 +1,9 @@
 PFB project plannibf details
 
 Project planning done by Client, BA , PM, SM, Dev/QA Leads 
-
 Sprint Planning done
 Dashboard created successfully
-
 Dev Internal Planning completed 
-
 Build delivered to QA 
 
 
